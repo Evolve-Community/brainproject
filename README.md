@@ -1,2 +1,2 @@
-# Brain-Reduplication-Project
-Human Brain Reduplication Project by Evolve
+# Brain Reduplication Project
+Part of Evolve community project.
