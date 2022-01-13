@@ -1,0 +1,23 @@
+Skills:
+{
+  What are the 8 cognitive skills?
+    The 8 Core Cognitive Capacities
+    Sustained Attention.
+    Response Inhibition.
+    Speed of Information Processing.
+    Cognitive Flexibility.
+    Multiple Simultaneous Attention.
+    Working Memory.
+    Category Formation.
+    Pattern Recognition:
+    {
+      Models used:
+      {
+        On camera data: Computer vision models like resnet for image classification, segmentation, etc.
+        Train models on On actuators value range (serial.read) logs and label based on context detection / mirror based approach: 
+        { 
+          Have camera input detect the movement being done and send it in real time to a common place where the configuration of each actuator is store in one raw with 
+          all these values as parammeters + values from pose type detected of the huamnoid from the inverted image of the image being replicated using a mirror in front.
+        }
+      Feed Forward neural nets model based on values predicted from the models that are already trained and then using this value to in turn create more models.
+  }
