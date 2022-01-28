@@ -1,10 +1,24 @@
-# Brain Reduplication Project
-Part of Evolve community project. https://evolution-org.webflow.io/
+# Brain Project [![Evolve](https://img.shields.io/badge/Part%20of%20Evolve%20community%20project-Evolve-lightgrey)](https://evolution-org.webflow.io/)
 
-## This is a research project and aims to learn and understand the functioning of the human brain.
+## A research project to code a brain-based superintelligence. 
+Learn and understand human brains and replicate their structure efficiently using open resources & libs.
 
-### You can be a part of it by 
+### Why?
+To learn and explore
+- tiny details of behaviors of our brains
+- understand the logic 
+- how it processes all the sensory data 
+- contextual data collection and storage for training and prediction
+- context prediction to perform specific motor skills.
 
-- First understanding what is it that we will be trying to achieve. Briefly, we are trying to recreate the human brain by taking into account it's hidden efficiencies which we can now code and use open-source/self-made AI algorithms to do so. I know it sounds a little vague, so, whenever you're free, just send me an email and we'll discuss that in a meeting. It is worth the effort.
-- Next, by constantly observing your subconscious and journal your thoughts. This will help create a framework of what all is to be recreated. 
-- Next, contributors with coding experience can help develop the algorithms by picking up and recreating the phenomenons mentioned in the community-journal.
+### Contribute by 
+- sharing your knowledge about human psychology 
+- breaking them into modules that can be coded 
+- join development of any algorithm you like or based on community research
+- sharing open resources for the community to use.
+
+## Community
+
+  [![Braincommunity](https://cdn-icons-png.flaticon.com/64/2111/2111370.png)](https://discord.gg/ZMJ8qSX3eR)
+ 
+
