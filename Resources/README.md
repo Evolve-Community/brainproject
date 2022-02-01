@@ -1,34 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-josephmisiti
-/
-awesome-machine-learning
-Public
-Code
-Issues
-Pull requests
-2
-Actions
-Security
-Insights
-awesome-machine-learning/README.md
-@josephmisiti
-josephmisiti Merge pull request #840 from GTrigueiro/patch-1
-…
-Latest commit 23438aa 22 days ago
- History
- 482 contributors
-@josephmisiti@josephmmisiti@hslatman@ProGamerGov@Metnew@cogmission@spekulatius@NathanEpstein@basickarl@Jasonnor@bigsnarfdude@LarryBattle
-1710 lines (1484 sloc)  176 KB
-   
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
