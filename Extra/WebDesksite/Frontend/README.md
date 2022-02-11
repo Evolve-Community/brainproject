@@ -1,2 +1,1 @@
-COPY of <Some website>
-with information about the project.
+Copy of any nice open source website with added information about the project.
