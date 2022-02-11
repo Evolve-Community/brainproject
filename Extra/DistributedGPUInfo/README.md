@@ -11,5 +11,5 @@ Platforms like PyTorch and Tensorflow are able to train these enormous models be
 More info: 
 [Article](https://towardsdatascience.com/training-bert-at-a-university-eedcf940c754) | [GitHub Link](https://github.com/yifding/hetseq)
 
-#### Use the Web-desktop platform [here](brainproject.io/webos) to connect to codebase and start working. For trainng models, click on connect GPU, the browser will detect and attach the GPU, make sure it is correct and IDLE (Close other high-perf apps & chrome tabs while your gpu is being used to train models)
+#### Use the Web-desktop platform [here](https://brainproject.ai/webos) to connect to codebase and start working. For trainng models, click on connect GPU, the browser will detect and attach the GPU, make sure it is correct and IDLE (Close other high-perf apps & chrome tabs while your gpu is being used to train models)
 ###### Earn evolve coin (soon) in exchange for your GPU used which can be used to further fork other people's "brain-models" and continue development.
