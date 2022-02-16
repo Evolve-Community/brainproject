@@ -1,0 +1,15 @@
+{
+  "customSyntax": "@stylelint/postcss-css-in-js",
+  "extends": [
+    "stylelint-config-recommended",
+    "stylelint-config-sass-guidelines",
+    "stylelint-config-styled-components",
+    "stylelint-config-prettier"
+  ],
+  "plugins": ["stylelint-order"],
+  "rules": {
+    "max-nesting-depth": null,
+    "selector-max-compound-selectors": null,
+    "selector-no-qualifying-type": null
+  }
+}
