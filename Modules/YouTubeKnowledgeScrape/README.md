@@ -1,4 +1,11 @@
-PREVIEW JSON DATABASE PARAMETERS
+### How many total videos on youtube? -  18.9 billion+
+###### Total number of people who use YouTube – 1,300,000,000.
+###### 300 hours of video are uploaded to YouTube every minute
+###### Almost 5 billion videos are watched on Youtube every single day.
+###### Total number of hours of video watched on YouTube each month – 4.79 billion.
+###### Total of 76 different languages and local versions in more than 88 countries (covering 95% of the Internet population).
+
+## Preview of JSON parameters to scrape to Database 
 ----
 
 ```json
