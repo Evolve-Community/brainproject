@@ -1,0 +1,15 @@
+[submodule "vendor/BrowserFS"]
+	path = vendor/BrowserFS
+	url = https://github.com/jvilk/BrowserFS
+[submodule "src/vendor/BrowserFS"]
+	path = src/vendor/BrowserFS
+	url = https://github.com/jvilk/BrowserFS
+[submodule "src/kernel/vendor/BrowserFS"]
+	path = src/kernel/vendor/BrowserFS
+	url = https://github.com/bpowers/BrowserFS
+[submodule "test/hbench-os"]
+	path = bench/hbench-os
+	url = https://github.com/bpowers/HBench-OS
+[submodule "src/init"]
+	path = src/init
+	url = http://github.com/plasma-umass/systemgo
